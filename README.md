@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShagilNawaz
-- 👀 I’m interested in Full stack development
+- 👀 I’m interested in java development
 - 🌱 I’m currently learning Data Sytructures and algorithm in Java programming
 - 💞️ I’m looking to collaborate on java development projects
 - 📫 How to reach me shagilnawaz007@gmail.com
