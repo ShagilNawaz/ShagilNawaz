@@ -2,7 +2,7 @@
 - 👀 I’m interested in java development
 - 🌱 I’m currently learning Data Sytructures and algorithm in Java programming
 - 💞️ I’m looking to collaborate on java development projects
-- 📫 How to reach me shagilnawaz007@gmail.com
+- 📫 How to reach me shagilnawaz007@outlook.com
 -  Connect on LinkedIn "https://www.linkedin.com/in/shagil-nawaz-a62412284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
 - ⚡
 
