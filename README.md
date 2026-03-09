@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ShagilNawaz
-- 👀 I’m interested in java development
-- 🌱 I’m currently learning Data Sytructures and algorithm in Java programming
-- 💞️ I’m looking to collaborate on java development projects
-- 📫 How to reach me shagilnawaz007@gmail.com
--  Connect on LinkedIn "https://www.linkedin.com/in/shagil-nawaz-a62412284"
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Data Structures and algorithm in Java programming
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 How to reach me - shagilnawaz007@gmail.com
+-  Connect on LinkedIn - "https://www.linkedin.com/in/shagil-nawaz-a62412284"
 - LeetCode - "https://leetcode.com/u/Shagil_nawaz/"
 
 <!---
